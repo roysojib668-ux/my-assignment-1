@@ -1,0 +1,50 @@
+
+.common-btn{
+    background-color: #3b5bdb;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 6px;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 80px;
+}
+
+.header-logo{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.header-logo-text{
+    margin: 0%;
+    padding: 0%;
+}
+.header-logo-text h2{
+    margin: 0%;
+}
+.header-logo-text h3{
+    margin: 0%;
+}
+
+
+nav ul{
+    display: flex;
+    list-style: none;
+    gap: 35px;
+}
+
+
+nav button{
+    padding: 12px 24px;
+    background-color: #3b5bdb;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-size: 15px;
+    border: none;
+    cursor: pointer;
+}
+/* NEVBAR-END */
