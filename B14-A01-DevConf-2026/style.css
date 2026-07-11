@@ -226,3 +226,58 @@ nav button{
     margin-top: 48px;
 }
 /* PRICING-SECTION-END */
+
+/* SECTION-WITH-AI-START */
+.hackathon{
+    background-color: rgb(253, 249, 249);
+    border-radius: 10px;
+    
+}
+.hackathon-container{
+    width: 85%;
+    max-width: 1200px;
+    margin: auto;
+    text-align: center;
+}
+.hackathon-header{
+    margin-bottom: 50px;
+    margin-top: 60px;
+    text-align: center;
+}
+.hackathon-header h2{
+    font-size: 40px;
+    font-family: serif;
+
+}
+.hackathon-header p{
+    color: gray;
+    font-family: cursive;
+    font-size: 13px;
+}
+.hackathon-columns{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 25px;
+    font-family: Trebuchet MS;
+    
+    border-radius: 11px;
+}
+.hackathon-card{
+    height: ;
+    width: ;
+    padding: 10px;
+}
+.button-withAI{
+    padding: 12px 24px;
+    background-color: #3b5bdb;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-size: 15px;
+    cursor: pointer;
+    border: none;
+    width: 200px;
+    margin-top: 35px;
+}
+/* SECTION-WITH-AI-END */
