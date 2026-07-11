@@ -118,9 +118,7 @@ nav button{
     padding-top: 50px;
     margin: 0%;
 }
-.all-div{
-    border: 1px solid rgba(88, 88, 88, 0.507);
-}
+
 .speakers-div{
     border: 1px solid rgba(88, 88, 88, 0.507);
     border-radius: 6px;
@@ -142,3 +140,89 @@ nav button{
 }
 
 /* SPEAKERS-SECTION-END */
+
+
+/* PRICING-SECTION-START */
+.pricing-heading{
+    margin-bottom: 50px;
+    margin-top: 60px;
+    text-align: center;
+}
+.pricing-heading-p{
+    font-size: 15px;
+    color: gray;
+}
+.pricing-heading-h2{
+    font-size: 43px;
+}
+.pricing-container{
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+}
+.pricing-columns{
+    width: 230px;
+    padding: 17px;
+    border: 1px solid rgb(96, 95, 95);
+    border-radius: 11px;
+    height: 300px;
+}
+.pricing-columns-mid{
+    width: 230px;
+    padding: 17px;
+    border: 1px solid rgb(96, 95, 95);
+    border-radius: 11px;
+    height: 300px;
+    background-color: rgba(0, 0, 0, 0.982);
+    color: rgb(236, 226, 226);
+    font-family: initial;
+    
+}
+.pricing-columns ul{
+    margin: 20px 0;
+    padding-left: 10px;
+}
+.pricing-columns li{
+    margin-bottom: 6px;
+    line-height: 18px;
+    font-family: initial;
+}
+.pricing-p{
+    font-size: 11px;
+    color: gray;
+}
+.pricing-h3{
+    font-size: 36px;
+    margin: 5px 0;
+}
+.pricing-p-2nd{
+    color: gray;
+    margin-bottom: 16px;
+    font-size: 11px;
+}
+.pricing-button{
+    padding: 12px 24px;
+    background-color: white;
+    color: #3b5bdb;
+    border: none;
+    border-radius: 6px;
+    font-size: 15px;
+    cursor: pointer;
+    border: 1px solid #3b5bdb;
+    width: 220px;
+    align-items: center;
+}
+.pricing-button-mid{
+    padding: 12px 24px;
+    background-color: #3b5bdb;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-size: 15px;
+    cursor: pointer;
+    border: none;
+    width: 220px;
+    align-items: center;
+    margin-top: 48px;
+}
+/* PRICING-SECTION-END */
